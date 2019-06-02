@@ -3,7 +3,6 @@ import React from 'react';
 class StorePicker extends React.Component {
   render() {
    return (
-
        <form className="store-selecter">
          <h2>Please Enter A Store</h2>
          <input type="text" require placeholder="Store Name" />
