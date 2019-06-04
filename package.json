@@ -18,6 +18,10 @@
     "serve": "^10.1.2",
     "stylus": "0.54.5"
   },
+  "now" : {
+    "alias" : "fish-of-the-day"
+  },
+  
   "scripts": {
     "dev": "react-scripts start",
     "start": "serve --single ./build",
