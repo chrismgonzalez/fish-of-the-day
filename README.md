@@ -1,2 +1,3 @@
-# fish-of-the-day
-A simple menu application using React and Firebase
+# Fish of the Day
+
+A simple menu application using React and Firebase.
