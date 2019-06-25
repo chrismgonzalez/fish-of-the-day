@@ -9,6 +9,7 @@
   "dependencies": {
     "autoprefixer-stylus": "0.14.0",
     "firebase": "^5.7.0",
+    "netlify-cli": "^2.11.23",
     "prop-types": "^15.6.0",
     "re-base": "4.0.0",
     "react": "^16.6.3",
@@ -18,7 +19,6 @@
     "serve": "^10.1.2",
     "stylus": "0.54.5"
   },
-
   "scripts": {
     "dev": "react-scripts start",
     "start": "serve --single ./build",
